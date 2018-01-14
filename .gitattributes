@@ -1,0 +1,17 @@
+＃テキストファイルを自動検出し、LF正規化を実行する
+* text = auto
+
+＃Visual Studioのカスタム
+* .cs diff = csharp
+
+＃標準からmsysgit
+* .doc diff = astextplain
+* .DOC diff = astextplain
+* .docx diff = astextplain
+* .DOCX diff = astextplain
+* .dot diff = astextplain
+* .DOT diff = astextplain
+* .pdf diff = astextplain
+* .PDF diff = astextplain
+* .rtf diff = astextplain
+* .RTF diff = astextplain
